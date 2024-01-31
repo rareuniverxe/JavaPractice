@@ -2,22 +2,43 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        PyramidStarPatter pStarPatter = new PyramidStarPatter();
-        pStarPatter.pyramidStarPattern();
+//        PyramidStarPatter pStarPatter = new PyramidStarPatter();
+//        pStarPatter.pyramidStarPattern();
+//
+//        DiamondPattern dPattern = new DiamondPattern();
+//        dPattern.diamondPattern();
+//
+//        DownwardTriangleStarPattern dtStarTraiangle = new DownwardTriangleStarPattern();
+//        dtStarTraiangle.downwardTriangleStarPattern();
+//
+//        MirroredRightTriangleStarPattern mRightStarTraiangle = new MirroredRightTriangleStarPattern();
+//        mRightStarTraiangle.mirroredRightTriangleStarPattern();
+//
+//        ReversePyramidStarPattern rPyramidStarPattern = new ReversePyramidStarPattern();
+//        rPyramidStarPattern.reversePyramidStarPattern();
+//
+//        RightPascalsTriangle rPascalTraingle = new RightPascalsTriangle();
+//        rPascalTraingle.rightPascalsTriangle();
 
-        DiamondPattern dPattern = new DiamondPattern();
-        dPattern.diamondPattern();
+//        SandglassStarPattern starPattern = new SandglassStarPattern();
+//        starPattern.sandglassStarPattern();
+//
+//        AlphabetStarPattern aStarPattern= new AlphabetStarPattern();
+//        aStarPattern.alphabetStarPattern();
+//
+//        TriangleStarPattern tStarPattern= new TriangleStarPattern();
+//        tStarPattern.triangleStarPattern();
 
-        DownwardTriangleStarPattern dtStarTraiangle = new DownwardTriangleStarPattern();
-        dtStarTraiangle.downwardTriangleStarPattern();
+//        DownTrianglePattern dPattern = new DownTrianglePattern();
+//        dPattern.downTrianglePattern();
 
-        MirroredRightTriangleStarPattern mRightStarTraiangle = new MirroredRightTriangleStarPattern();
-        mRightStarTraiangle.mirroredRightTriangleStarPattern();
+//        DiamondStarPattern dStarPattern = new DiamondStarPattern();
+//        dStarPattern.diamondStarPattern();
 
-        ReversePyramidStarPattern rPyramidStarPattern = new ReversePyramidStarPattern();
-        rPyramidStarPattern.reversePyramidStarPattern();
+        NumberPatternOne nPattern = new NumberPatternOne();
+        nPattern.numberPatternOne();
 
-        RightPascalsTriangle rPascalTraingle = new RightPascalsTriangle();
-        rPascalTraingle.rightPascalsTriangle();
+        NumberPatternTwo n2Pattern = new NumberPatternTwo();
+        n2Pattern.numberPatternTwo();
     }
 }
