@@ -34,11 +34,47 @@ public class Main {
 
 //        DiamondStarPattern dStarPattern = new DiamondStarPattern();
 //        dStarPattern.diamondStarPattern();
+//
+//        NumberPatternOne nPattern = new NumberPatternOne();
+//        nPattern.numberPatternOne();
+//
+//        NumberPatternTwo n2Pattern = new NumberPatternTwo();
+//        n2Pattern.numberPatternTwo();
+//
+//        NumberPatternThree n3Pattern = new NumberPatternThree();
+//        n3Pattern.numberPatternThree();
+//
+//        NumberPatternFour n4Pattern = new NumberPatternFour();
+//        n4Pattern.numberPatternFour();
+//
+//        NumberPatternFive n5Pattern = new NumberPatternFive();
+//        n5Pattern.numberPatternFive();
+//
+//        NumberPatternSix n6Pattern = new NumberPatternSix();
+//        n6Pattern.numberPatternSix();
+//
+//        NumberPatternSeven n7Pattern = new NumberPatternSeven();
+//        n7Pattern.numberPatternSeven();
+//
+//        NumberPatternEight n8Pattern = new NumberPatternEight();
+//        n8Pattern.numberPatternEight();
+//
+//        NumberPatternNine n9Pattern = new NumberPatternNine();
+//        n9Pattern.numberPatternNine();
+//
+//        NumberPatternTen n10Pattern = new NumberPatternTen();
+//        n10Pattern.numberPatternTen();
+//
+//        NumberPatternEleven n11Pattern = new NumberPatternEleven();
+//        n11Pattern.numberPatternEleven();
+//
+//        NumberPatternTwelve n12Pattern = new NumberPatternTwelve();
+//        n12Pattern.numberPatternTwelve();
+//
+//        NumberPatternThirteen n13Pattern = new NumberPatternThirteen();
+//        n13Pattern.numberPatternThirteen();
 
-        NumberPatternOne nPattern = new NumberPatternOne();
-        nPattern.numberPatternOne();
-
-        NumberPatternTwo n2Pattern = new NumberPatternTwo();
-        n2Pattern.numberPatternTwo();
+        NumberPatternThirteen n13Pattern = new NumberPatternThirteen();
+        n13Pattern.numberPatternThirteen();
     }
 }
