@@ -73,8 +73,29 @@ public class Main {
 //
 //        NumberPatternThirteen n13Pattern = new NumberPatternThirteen();
 //        n13Pattern.numberPatternThirteen();
+//
+//        NumberPatternThirteen n13Pattern = new NumberPatternThirteen();
+//        n13Pattern.numberPatternThirteen();
+//
+//        NumberPatternFourteen n14Pattern = new NumberPatternFourteen();
+//        n14Pattern.numberPatternFourteen();
+//
+//        NumberPatternFifteen n15Pattern = new NumberPatternFifteen();
+//        n15Pattern.numberPatternFifteen();
+//
+//        NumberPatternSixteen n16Pattern = new NumberPatternSixteen();
+//        n16Pattern.numberPatternSixteen();
+//
+//        NumberPatternSeventeen n17Pattern = new NumberPatternSeventeen();
+//        n17Pattern.numberPatternSeventeen();
+//
+//        NumberPatternEighteen n18Pattern = new NumberPatternEighteen();
+//        n18Pattern.numberPatternEighteen();
+//
+//        NumberPatternNineteen n19Pattern = new NumberPatternNineteen();
+//        n19Pattern.numberPatternNineteen();
 
-        NumberPatternThirteen n13Pattern = new NumberPatternThirteen();
-        n13Pattern.numberPatternThirteen();
+        NumberPatternTwenty n20Pattern = new NumberPatternTwenty();
+        n20Pattern.numberPatternTwenty();
     }
 }
